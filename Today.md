@@ -1,6 +1,7 @@
 ## Here is the header
 * Bullet 1
 * Bullet 2
+* New File
 
 This is *italics* and **bold**
 
